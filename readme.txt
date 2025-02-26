@@ -1,1 +1,1 @@
-hello
+Hello, thanks for using my repository
